@@ -27,6 +27,8 @@
 */
 #pragma once
 
+#include <vector>
+
 #include "archtypes.h"
 #include "rehlds_api.h"
 #include "rehlds_interfaces_impl.h"
